@@ -1,20 +1,24 @@
-![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f15d07fb-c5ab-4e10-86c7-983f7746eb48/dgdidfa-0a46e71a-b401-4b73-ac6c-80627deb1503.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YxNWQwN2ZiLWM1YWItNGUxMC04NmM3LTk4M2Y3NzQ2ZWI0OFwvZGdkaWRmYS0wYTQ2ZTcxYS1iNDAxLTRiNzMtYWM2Yy04MDYyN2RlYjE1MDMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cgl73oWrDBjaV1JjWfUZ8EG4JP4pJQyA7WX32tG3iHk)
+![MasterHead](./1594835668489.gif)
+
 <h1 align="center">Hi 👋, I'm Rishi Kumar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/LYBHgc2yiO07G3dkkQ.webp">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikr56&label=Profile%20views&color=0e75b6&style=flat" alt="rishikr56" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikr56" alt="rishikr56" /></a> </p>
 
 - 🌱 I’m currently learning **Express,NodeJS**
 
+- 👨‍💻 All of my projects are available at [https://rishi-sujit-portfolio.netlify.app/](https://rishi-sujit-portfolio.netlify.app/)
+
 - 💬 Ask me about **C++, Javascript**
 
 - 📫 How to reach me **rishikum637@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/LYBHgc2yiO07G3dkkQ.webp">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rishi-sujit-kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishi-sujit-kumar/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishi-sujit-kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi-sujit-kr" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rishicoding56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rishicoding56" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rishicoding56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishicoding56" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rishi56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rishi56" height="30" width="40" /></a>
@@ -28,3 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishikr56&show_icons=true&locale=en" alt="rishikr56" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikr56&" alt="rishikr56" /></p>
